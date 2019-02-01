@@ -1,0 +1,1 @@
+SELECT sender,objet,msg,sendername,recipientname,email from inmail,users WHERE idmail like 1 and recipient= 3 and sender=login
